@@ -7,11 +7,7 @@
 
         <div class="footer__data">
             <center>
-
                 <a href="#" class="footer__title">Voltar ao topo</a>
-                
-
-
             </center>
 
         </div>
