@@ -315,6 +315,9 @@ button {
 }
 
 .skills__name {
+    align-items: center;
+    align-content: center;
+    text-align: center;
     display: inline-block;
     font-size: var(--small-font-size);
     margin-right: var(--mb-2);
@@ -330,6 +333,8 @@ button {
 }
 
 .skills__img img {
+    align-content: center;
+    text-align: center;
     border-radius: .5rem;
 }
 
