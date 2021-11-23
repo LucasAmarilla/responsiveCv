@@ -31,9 +31,9 @@
             
             <h2 class="about__subtitle">UCDB</h2>
             <span class="about__profession">Engenharia de controle e automação</span>
-            <p class="about__text">Atualmente o curso que me encontro cursando, 
+            <p class="about__text">Atualmente é o curso que me encontro cursando, 
                 sempre gostei da área da Engenharia então decidi tentar algo novo relacionado a 
-                um conhecimento que tinha curiosidade mas nunca persisti.
+                uma área da técnologia que sempre tive curiosidade mas nunca persisti.
             </p>
 
         </div>
