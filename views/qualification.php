@@ -33,30 +33,29 @@
             
             <h2 class="about__subtitle">UCDB</h2>
             <span class="about__profession">Engenharia de controle e automação</span>
-            <p class="about__text"> É atualmente o curso que me encontro cursando, sempre gostei da área da Engenharia então decidi tentar algo novo relacionado a um conhecimento que tinha curiosidade mas nunca persisti.
+            <p class="about__text">Atualmente o curso que me encontro cursando, 
+                sempre gostei da área da Engenharia então decidi tentar algo novo relacionado a 
+                um conhecimento que tinha curiosidade mas nunca persisti.
             </p>
 
-            <div class="about__social">
-                <a href="#" class="about__social-icon"><i class='bx bxl-linkedin'></i></a>
-                <a href="#" class="about__social-icon"><i class='bx bxl-github'></i></a>
-                <a href="#" class="about__social-icon"><i class='bx bxl-dribbble'></i></a>
-            </div>
         </div>
 
         <!-- direita -->
         <div>
             <i class="ri-briefcase-line ri-4x"></i>
-            <h2 class="about__subtitle">Estagiario de laboratorio - IFMS Campus Ponta Porã</h2>
+            <h2 class="about__subtitle">Estagiário de laboratório - IFMS Campus Ponta Porã</h2>
             <span class="about__profession">desde março de 2019 até junho de 2019</span>
             <p class="about__text">
-                Esse foi meu programa de estagio dentro do campus onde fui responsavel por cuidar do laboratorio de informatica 1, onde catalogava
-                e organizava itens doados ao campus junto a uma equipe de calouros que liderava. Lá também desenvolvi um sistema web simples para controle de chaves do laboratorio.
+            Foi meu programa de estagio dentro do campus no qual fui responsavel por cuidar do laboratório de informática 1, 
+            onde eu catalogava e organizava itens doados ao campus junto a uma equipe de calouros que liderava. 
+            Lá também desenvolvi um sistema web simples para controle de chaves do laboratorio.
             </p>
             <h2 class="about__subtitle">Plantop - CNPq</h2>
             <span class="about__profession">desde 2019 até 2020</span>
-            <p class="about__text">Este foi meu projeto de iniciação cientifica e meu projeto de conclusão de curso, o mesmo tinha como foco
-                utilizar realidade aumentada para unir as duas áreas de ensino do campus de Ponta Porã unindo agricultura e informatica, o app utilizava a camera de um smartphone para reconhecer um marcador
-                e projetava figuras 3d com dicas ao lado da planta e algumas curiosidades sobre a mesma.
+            <p class="about__text">Foi meu projeto de iniciação cientifica e o meu projeto de conclusão de curso, 
+                o mesmo tinha como foco utilizar realidade aumentada para unir as duas áreas de ensino do campus de Ponta Porã, 
+                agricultura e informatica. O app utilizava a camera de um smartphone para reconhecer 
+                um marcador e projetava figuras 3d com dicas ao lado da planta e algumas curiosidades sobre a mesma.
             </p>
 
             <h2 class="about__subtitle">Monitor de Banco de dados - IFMS Campus Ponta Porã</h2>

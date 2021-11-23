@@ -13,11 +13,12 @@
                     <a target="_blank" href="https://www.instagram.com/lucas.amarilla.s" class="skills__name"><i class="ri-instagram-fill ri-2x "></i></a>
                     <a target="_blank" href="https://www.twitter.com/lucasp1ka2" class="skills__name"><i class="ri-twitter-fill ri-2x"></i></a>
                     <a target="_blank" href="https://www.twitch.tv/lucasp1ka2" class="skills__name"><i class="ri-twitch-fill ri-2x"></i></a>
+                    <a target="_blank" href="https://github.com/LucasAmarilla/" class="skills__name"><i class="ri-github-fill ri-2x"></i></a>
 
 
                 </div>
 
-                <form action="" class="contact__form">
+                <!-- <form action="" class="contact__form">
                     <div class="contact__inputs">
                         <input type="text" placeholder="Name" class="contact__input">
                         <input type="mail" placeholder="Email" class="contact__input">
@@ -26,6 +27,6 @@
                     <textarea name="" id="" cols="0" rows="10" class="contact__input"></textarea>
 
                     <input type="submit" value="Enviar" class="contact__button">
-                </form>
+                </form> -->
             </div>
         </section>

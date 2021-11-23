@@ -15,8 +15,8 @@
                 em 3d. Hoje sou freelancer porém procuro um emprego na área para aprender cada dia mais sobre a minha area.
                 
             </p>
-
-            <a href="./assets/cv.pdf" target="pdf-frame" class="skills__name" target="_blank">Download do CV</a>
+            <a target="_blank" href="https://github.com/LucasAmarilla/" class="skills__name"><i class="ri-github-fill ri-2x"></i><br>Meu portifolio no GitHub</a>
+            <a href="./assets/cv.pdf" target="pdf-frame" class="skills__name" target="_blank"><i class="ri-slideshow-line ri-2x"></i><br>Download do curriculum vitae</a>
         </div>
     </div>
 </section>
