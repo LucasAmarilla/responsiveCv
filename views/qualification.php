@@ -11,25 +11,23 @@
             <h2 class="about__subtitle">Fisk Escola de idiomas - Ponta Porã/MS</h2>
             <span class="about__profession">Curso de Inglês - desde Janeiro de 2012 até Dezembro de 2019</span>
             <p class="about__text"> 
-                Durante o curso alcancei nivel B2 no teste Michigan English Test(MET), no mesmo também tive que passar por uma apresentação de 
-                TCC completamente em inglês.
+            Durante o curso alcancei nível B2 no teste Michigan English Test(MET), 
+            onde também tive que passar por uma apresentação de TCC inteiramente em inglês.
             </p>
 
             <h2 class="about__subtitle">IFMS</h2>
             <span class="about__profession">Técnico integrado em informatica - desde Janeiro de 2017 até Dezembro de 2020</span>
-            <p class="about__text"> Foi dentro do ifms onde eu aprendi todo o conceito de algoritmos e orientação a
-                objetos com as liguagens Portugol, Java e PHP. Além da parte relacionada ao desenvolvimento de aplicaçõels
-                também aprendi banco de dados relacionais com MySQL e o basico de redes e suas topologias.
+            <p class="about__text"> Foi no IFMS onde aprendi todo o conceito de algoritmos e orientação a objetos com as 
+                liguagens Portugol, Java e PHP. Além da parte relacionada ao desenvolvimento de aplicações, 
+                também aprendi banco de dados relacionais com MySQL e o básico de redes e suas topologias.
             </p>
 
             <h2 class="about__subtitle">ILAC - Vancouver/CA</h2>
             <span class="about__profession">Curso de Intercambio - desde Junho de 2018 até Julho de 2018</span>
             <p class="about__text"> 
-                Experincia de intercambio onde tive que trabalhar com diferentes culturas e idiomas dentro da escola de Inglês, lá também 
-                consegui o diploma de Level 13 - Advanced english.
+            Experiência de intercâmbio onde tive a oportunidade de trabalhar com diferentes culturas e idiomas 
+            dentro da escola de Inglês, lá também consegui o diploma de Level 13 - Advanced english
             </p>
-
-
             
             <h2 class="about__subtitle">UCDB</h2>
             <span class="about__profession">Engenharia de controle e automação</span>
